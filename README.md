@@ -1,6 +1,8 @@
 # github.io
 https://alicelindel3.github.io/github.io/
 
-https://prog-8.com/docs/github-pages
+https://prog-8.com/docs/python-env-win
+(Pythonの開発環境を用意しよう！Windows)
 
-自分で作ったWebページをインターネット上に公開しよう！
+https://prog-8.com/courses/html
+(HTML & CSS)
