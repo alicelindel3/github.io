@@ -1,4 +1,7 @@
 # github.io
+http://www.kumei.ne.jp/c_lang/
+(猫でもわかるプログラミング)
+
 https://visualstudio.microsoft.com/ja/
 (Visual Studio ファミリの紹介)
 
