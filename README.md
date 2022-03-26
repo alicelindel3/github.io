@@ -8,4 +8,7 @@ https://prog-8.com/docs/python-env-win
 (Pythonの開発環境を用意しよう！.Windows)
 
 https://prog-8.com/courses/html
-(HTML & CSS)
+(Webページの 見た目をつくる言語.HTML & CSS)
+
+https://visualstudio.microsoft.com/ja/
+(Visual Studio ファミリの紹介)
