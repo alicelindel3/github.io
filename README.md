@@ -1,6 +1,4 @@
 # github.io
-https://alicelindel3.github.io/github.io/
-
 https://visualstudio.microsoft.com/ja/
 (Visual Studio ファミリの紹介)
 
