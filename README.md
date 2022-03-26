@@ -5,6 +5,9 @@ http://www.kumei.ne.jp/c_lang/
 https://visualstudio.microsoft.com/ja/
 (Visual Studio ファミリの紹介)
 
+https://developer.mozilla.org/ja/docs/Web
+(開発者向けのウェブ技術)
+
 https://prog-8.com/courses/html
 (Webページの 見た目をつくる言語.HTML & CSS)
 
