@@ -2,6 +2,9 @@
 http://www.kumei.ne.jp/c_lang/
 (猫でもわかるプログラミング)
 
+https://miyashinblog.com/
+(みやしんのプログラミングスキル通信)
+
 https://visualstudio.microsoft.com/ja/
 (Visual Studio ファミリの紹介)
 
@@ -16,6 +19,3 @@ https://prog-8.com/docs/python-env-win
 
 https://sukkiri.jp/technologies/devtools/vscode_java_win.html
 (Visual Studio CodeでのJava開発環境構築.Windows)
-
-https://miyashinblog.com/
-(みやしんのプログラミングスキル通信)
